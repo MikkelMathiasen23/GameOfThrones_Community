@@ -1,0 +1,9 @@
+pandas
+dash
+networkx
+fa2
+scikit-image
+gunicorn
+whitenoise
+pillow
+requests
