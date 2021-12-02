@@ -104,8 +104,8 @@ app.layout = html.Div([
         children=[
             html.Div([
                 dcc.Markdown("""
-                **Season selection**
-                Select a season to view the corresponding network or select overall to view the built network for all seasons combined.
+                **Community selection**
+                Select a community to view the corresponding network.
             """),
                 dcc.Dropdown(id="com_dropdown_menu",
                              options=[{
